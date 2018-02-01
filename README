@@ -1,0 +1,10 @@
+cnn_mnist_exp.py                        Svenja Fleischer, 2018
+
+Experimenting with TensorFlow - implement a simple convolutional
+network for MNIST classification.
+
+Includes two convolution / max-pooling layers, a fully connected
+hidden layer and a softmax output layer. Uses L2 regularization
+and a log-likelihood cost function. Parameters taken from Michael
+Nielsen's "Neural Networks and Deep Learning", Chapter 6.
+
